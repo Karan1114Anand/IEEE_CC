@@ -58,8 +58,8 @@ jupyter notebook
 
 ## Contact
 If you have questions, suggestions, or want to connect, reach out:
-- GitHub: [yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub : Karan1114Anand
+- Email: karan1114anand@gmail.com
 This README template will present your repo clearly and professionally while inviting collaboration and ease of use. You can customize repository URLs, badges, and contact info accordingly.
 
 Related
